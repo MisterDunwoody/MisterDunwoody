@@ -15,5 +15,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: (https://www.instagram.com/misterdunwoody/)
-[linkedin]: (https://www.linkedin.com/in/christopher-dunwoody-5632b0176/)
+[instagram]: https://www.instagram.com/misterdunwoody
+[linkedin]: https://www.linkedin.com/in/christopher-dunwoody-5632b0176
