@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-dunwoody-5632b0176/">IT Professional and Data Analyst</a>☺</h1>
+<h1>Hi, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-dunwoody-5632b0176/">IT Professional and Data Analyst</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
