@@ -7,8 +7,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MisterDunwoody/osTicket)
   - [osTicket: Creating a Ticket](https://github.com/MisterDunwoody/CreatingTicketsinOs......Ticket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MisterDunwoody/osTicket-Ticket-Lifestyle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MisterDunwoody/Configure-AD-VM)
+- <b>Active Directory</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MisterDunwoody/Installing-a-VPN)
+
+- <b>Setting Up Virtual Private Network(VPN)</b>
+  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/MisterDunwoody/AzureVM-NW-Protocols)
+
+- <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MisterDunwoody/AzureVM-NW-Protocols)
 <h2>🤳Connect with me:</h2>
 
