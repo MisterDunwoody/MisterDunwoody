@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MisterDunwoody/Installing-a-VPN)
 
 - <b>Setting Up Virtual Private Network(VPN)</b>
-  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/MisterDunwoody/AzureVM-NW-Protocols)
+  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/MisterDunwoody/Installing-a-VPN)
 
 - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MisterDunwoody/AzureVM-NW-Protocols)
