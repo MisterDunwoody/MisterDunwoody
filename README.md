@@ -5,8 +5,9 @@
 - <b>Azure/Cloud Projects </b>
   - [Creating Live SOC/HoneyNet](https://github.com/MisterDunwoody/CloudSOC)
 - <b>Incident Response </b>
-  - [Brute Force Success]
+  - [Brute Force Success(Windows)]
   - [Possible Malware Outbreak]
+  - [Brute Force Success(Linux)]
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
