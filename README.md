@@ -1,5 +1,12 @@
 <h1>Hi, I'm Christopher, an <a href="https://www.linkedin.com/in/christopher-dunwoody-5632b0176/">IT, Cybersecurity Professional and Data Analyst</a></h1>
 
+<h2>🛜🔒 CyberSecurity Projects:</h2>
+
+- <b>Azure/Cloud Projects </b>
+  - [Creating Live SOC/HoneyNet](https://github.com/MisterDunwoody/CloudSOC)
+- <b>Incident Response </b>
+  - [Brute Force Success]
+  - [Possible Malware Outbreak]
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
