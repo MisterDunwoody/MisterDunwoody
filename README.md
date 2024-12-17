@@ -3,7 +3,7 @@
 <h2>🛜🔒 CyberSecurity Projects:</h2>
 
 - <b>Azure/Cloud Projects </b>
-  - [Creating Live SOC/HoneyNet](https://github.com/MisterDunwoody/CloudSOC) Under Construction
+  - [Creating Live SOC/HoneyNet](https://github.com/MisterDunwoody/CloudSOC) (Under Construction)
 - <b>Incident Response </b>
   - [Brute Force Success(Windows)](https://github.com/MisterDunwoody/Brute-Force-SUCCESS---Windows/blob/main/README.md)
   - [Possible Malware Outbreak]
