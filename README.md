@@ -6,6 +6,7 @@
   - [Creating Live SOC/HoneyNet](https://github.com/MisterDunwoody/CloudSOC) (Under Construction)
 - <b>Incident Response </b>
   - [Brute Force Success(Windows)](https://github.com/MisterDunwoody/Brute-Force-SUCCESS---Windows/blob/main/README.md)
+  - [Possible Privilege Escalation](https://github.com/MisterDunwoody/Possible-Privilege-Escalation-)
   - [Possible Malware Outbreak]
   - [Brute Force Success(Linux)]
 <h2>👨‍💻 Information Technology Projects:</h2>
